@@ -1,0 +1,67 @@
+\documentclass
+[a4paper,14pt,russian]{article}
+\usepackage{extsizes}
+\usepackage{cmap}     
+\usepackage{mathtext}                       % для кодировки шрифтов в pdf
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}                  % для кодировки текста в UTF8
+\usepackage[russian]{babel}
+%\usepackage{pscyr}
+%\usepackage{textcomp}                            % красивые шрифты для кириллицы
+\renewcommand{\rmdefault}{ftm}               % Times New Roman
+
+% --- отступы по ГОСТу
+\usepackage{geometry}
+
+\geometry{left=2cm}
+\geometry{right=1cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm}
+
+\usepackage{graphicx}                        % для вставки изображения
+\graphicspath{{pics/}}                       % директория с изображениями (иначе не будет проставлять номера в ссылках)
+
+\usepackage{amssymb,amsfonts,amsmath,amsthm} % математические дополнения от АМС
+\usepackage{indentfirst}                     % отделять первую строку раздела абзацным отступом тоже
+\usepackage[usenames,dvipsnames]{color}      % названия цветов
+%\usepackage{makecell}
+%\usepackage{multirow}                        % улучшенное форматирование таблиц
+\usepackage{ulem}                            % подчеркивания
+\usepackage{array}
+
+% --- полуторный интервал между строками
+\usepackage{setspace}
+\onehalfspacing
+
+\setcounter{tocdepth}{3}                     % глубина просмотра уровней разделов для формирования оглавления
+\setcounter{secnumdepth}{3}                  % глубина просмотра уровней разделов для их нумерации в оглавлении
+
+\parindent=15mm                              % абзацный отступ
+\renewcommand{\labelitemi}{--}               % задание маркера для первого уровня ненумерованных списков (тире)
+\renewcommand*\labelenumi{\theenumi)}        % задание вида первого уровня нумерованных списков (цифра со скобкой)
+
+% -----------------------------------------------------------------------------------------------------------------------
+
+\begin{document}
+
+%\input{0_title}                          % Титульный лист
+%\input{1_referat}                        % Реферат
+                                         %
+\tableofcontents                         %
+ 
+\input{_economic}                        %
+%\input{2_tz}                             % Техническое задание
+%\input{3_arch}                           % Архитектура сети
+%\input{4_princ_otkaz}                    % Принципы построения сетей
+%\input{5_equipment}                      % Выбор оборудования сети
+%\input{6_netOS}                          % Настройка сетевой ОС
+%\input{7_DBMS}                           % Настройка СУБД
+%\input{8_DB_distrib}                     % Распределение БД по узлам
+%\input{9_model}                          % Исходные данные моделирования
+%\input{10_anal_model}                    % Аналитическое моделирование
+%\input{11_imitat_model}                  % Имитационное моделирование
+%\input{12_result}                        % Сравнение результатов
+%\input{13_TEH_END}                       % Выводы
+%\input{14_litra}                         % Литература
+
+\end{document}
