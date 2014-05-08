@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.3)  7 MAY 2014 22:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.3)  8 MAY 2014 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -39,6 +39,9 @@ Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 (/usr/local/texlive/2013/texmf-dist/tex/latex/t2/mathtext.sty
 Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 111.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen103
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -471,7 +474,7 @@ Language: russian 2013/04/13 1.3a Russian support from the babel system
 (/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count87
-\U@D=\dimen103
+\U@D=\dimen104
 )
 Package babel Info: Making " an active character on input line 147.
 ))
@@ -496,14 +499,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count88
 \Gm@cntv=\count89
 \c@Gm@tempcnt=\count90
-\Gm@bindingoffset=\dimen104
-\Gm@wd@mp=\dimen105
-\Gm@odd@mp=\dimen106
-\Gm@even@mp=\dimen107
-\Gm@layoutwidth=\dimen108
-\Gm@layoutheight=\dimen109
-\Gm@layouthoffset=\dimen110
-\Gm@layoutvoffset=\dimen111
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks17
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -531,8 +534,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -556,11 +559,11 @@ Package: amstext 2000/06/29 v2.01
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks19
-\ex@=\dimen114
+\ex@=\dimen115
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen115
+\pmbraise@=\dimen116
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
@@ -577,7 +580,7 @@ LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen116
+\big@size=\dimen117
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count97
@@ -590,12 +593,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \column@=\count102
 \maxfields@=\count103
 \andhelp@=\toks21
-\eqnshift@=\dimen117
-\alignsep@=\dimen118
-\tagshift@=\dimen119
-\tagwidth@=\dimen120
-\totwidth@=\dimen121
-\lineht@=\dimen122
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
 \@envbody=\toks22
 \multlinegap=\skip44
 \multlinetaggap=\skip45
@@ -634,17 +637,17 @@ File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 \UL@hyphenbox=\box29
 \UL@skip=\skip49
 \UL@hook=\toks30
-\UL@height=\dimen123
+\UL@height=\dimen124
 \UL@pe=\count104
-\UL@pixel=\dimen124
+\UL@pixel=\dimen125
 \ULC@box=\box30
 Package: ulem 2012/05/18
-\ULdepth=\dimen125
+\ULdepth=\dimen126
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen126
-\extrarowheight=\dimen127
+\col@sep=\dimen127
+\extrarowheight=\dimen128
 \NC@list=\toks31
 \extratabsurround=\skip50
 \backup@length=\skip51
@@ -655,26 +658,26 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (./_core.aux)
 \openout1 = `_core.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for T2A+ftm on input line 45.
-LaTeX Font Info:    No file T2Aftm.fd. on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 46.
+LaTeX Font Info:    No file T2Aftm.fd. on input line 46.
 
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 45.
+(Font)              using `T2A/cmr/m/n' instead on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -713,13 +716,13 @@ LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
-\scratchdimen=\dimen128
+\scratchdimen=\dimen129
 \scratchbox=\box31
 \nofMPsegments=\count106
 \nofMParguments=\count107
 \everyMPshowfont=\toks32
 \MPscratchCnt=\count108
-\MPscratchDim=\dimen129
+\MPscratchDim=\dimen130
 \MPnumerator=\count109
 \makeMPintoPDFobject=\count110
 \everyMPtoPDFconversion=\toks33
@@ -769,7 +772,7 @@ e
 ))
 
 LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 50.
+(Font)              using `T2A/ftm/m/n' instead on input line 51.
 
 (./_core.toc
 LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
@@ -808,56 +811,82 @@ Overfull \hbox (0.754pt too wide) in paragraph at lines 88--89
 -ку мо-жет быть опре-
  []
 
-[3] [4]
-Overfull \hbox (11.98093pt too wide) in paragraph at lines 131--132
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\T2A/ftm/bx/n/14.4 1.1 ‘ор-му-ли-ров-ка и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\T2A/ftm/bx/n/14.4 ти-ро-ва-ние (раз-ра-бот-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\T2A/ftm/bx/n/14.4 ва-ние (ко-ди-ро-ва-ние и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]|\T2A/ftm/bx/n/14.4 2.4. –аз-ра-бот-ка про-
+ []
+
+[4]
+Overfull \hbox (11.98093pt too wide) in paragraph at lines 164--165
 []\T2A/ftm/bx/n/14.4 ƒл€ опре-де-ле-ни€ сред-ней за-ра-бот-ной пла-ты аналитика
 -руководител€ неболь-
  []
 
 
-Overfull \hbox (4.7773pt too wide) in paragraph at lines 135--136
+Overfull \hbox (4.7773pt too wide) in paragraph at lines 168--169
 []\T2A/ftm/bx/n/14.4 портал по-ис-ка пред-ло-же-ний по тру-до-устрой-ству HeadH
 unter. јд-рес: www.hh.ru 
  []
 
-
-Overfull \hbox (1.11844pt too wide) in paragraph at lines 139--140
+[5]
+Overfull \hbox (1.11844pt too wide) in paragraph at lines 172--173
 []\T2A/ftm/bx/n/14.4 ¬ ре-зуль-та-те в ка-че-стве сред-ней за-ра-бот-ной пла-ты
  аналитика-руководител€
  []
 
-[5] [6]
-Overfull \hbox (4.21858pt too wide) in paragraph at lines 185--188
+[6]
+Overfull \hbox (4.21858pt too wide) in paragraph at lines 218--221
 []\T2A/ftm/bx/n/14.4 индивидуальные пред-при-ни-ма-те-ли, ад-во-ка-ты, но-та-ри
 -усы, за-ни-ма-ю-щи-е-с€ част-
  []
 
 [7]
-Overfull \hbox (8.36055pt too wide) in paragraph at lines 212--214
+Overfull \hbox (8.36055pt too wide) in paragraph at lines 245--247
 []\T2A/ftm/bx/n/14.4 ѕолучаем, что за-тра-ты на услу-ги сто-рон-них ор-га-ни-за
 -ций со-став-л€-ют $—[] \OT1/cmr/m/n/14.4 =
  []
 
-
-Overfull \hbox (0.29051pt too wide) in paragraph at lines 221--223
+[8]
+Overfull \hbox (0.29051pt too wide) in paragraph at lines 254--256
 []\T2A/ftm/bx/n/14.4 “аким об-ра-зом, за-тра-ты на на-клад-ные рас-хо-ды со-ста
 в-л€-ют: $—[] \OT1/cmr/m/n/14.4 = (0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 125 
 +
  []
 
-) [8] [9] (./_core.aux)
+[9]
+Overfull \hbox (4.9437pt too wide) in paragraph at lines 301--302
+[]\T2A/ftm/bx/n/14.4 ƒл€ те-сти-ро-ва-ни€ раз-ра-ба-ты-ва-е-мой под-си-сте-мы н
+еоб-хо-ди-мо вы-пол-нить сле-
+ []
+
+[10]) [11] (./_core.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4894 strings out of 493315
- 64842 string characters out of 6137905
- 133543 words of memory out of 5000000
- 8196 multiletter control sequences out of 15000+600000
+ 4906 strings out of 493315
+ 65136 string characters out of 6137905
+ 134755 words of memory out of 5000000
+ 8204 multiletter control sequences out of 15000+600000
  10367 words of font info for 31 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,9n,27p,1031b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,27p,1031b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -869,10 +898,10 @@ ocal/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/loc
 al/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local
 /texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on _core.pdf (9 pages, 135094 bytes).
+Output written on _core.pdf (11 pages, 142185 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
