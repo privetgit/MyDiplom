@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.3)  8 MAY 2014 16:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.9)  11 MAY 2014 20:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -46,20 +46,45 @@ LaTeX Info: Redefining \halign on input line 111.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+\symT1letters=\mathgroup4
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
-\symT2Aletters=\mathgroup4
+\symT2Aletters=\mathgroup5
 )
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+\symTS1letters=\mathgroup6
+)
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 100.
 
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/paratype.sty
+Package: paratype 2012/01/24 Style file for package paratype.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/PTSans.sty
+Package: PTSans 2011/02/09 Style file for PTSans.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/PTSerif.sty
+Package: PTSerif 2011/02/10 Style file for PTSerif.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/PTMono.sty
+Package: PTMono 2012/01/24 Style file for PTMono.
+))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -454,6 +479,81 @@ File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+232A (decimal 9002)
    defining Unicode char U+2423 (decimal 9251)
 )
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -478,13 +578,310 @@ File: babel.def 2013/05/16 v3.9f Babel common definitions
 )
 Package babel Info: Making " an active character on input line 147.
 ))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcapitalcompwordmark on
+ input line 65.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textascendercompwordmark o
+n input line 66.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textquotestraightbase on i
+nput line 67.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textquotestraightdblbase o
+n input line 68.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texttwelveudash on input l
+ine 69.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textthreequartersemdash on
+ input line 70.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textleftarrow on input lin
+e 71.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textrightarrow on input li
+ne 72.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textblank on input line 73
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdollar on input line 7
+4.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textquotesingle on input l
+ine 75.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasteriskcentered on in
+put line 76.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdblhyphen on input lin
+e 77.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textfractionsolidus on inp
+ut line 78.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textzerooldstyle on input 
+line 79.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textoneoldstyle on input l
+ine 80.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texttwooldstyle on input l
+ine 81.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textthreeoldstyle on input
+ line 82.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textfouroldstyle on input 
+line 83.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textfiveoldstyle on input 
+line 84.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textsixoldstyle on input l
+ine 85.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textsevenoldstyle on input
+ line 86.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texteightoldstyle on input
+ line 87.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textnineoldstyle on input 
+line 88.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textlangle on input line 8
+9.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textminus on input line 90
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textrangle on input line 9
+1.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textmho on input line 92.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textbigcircle on input lin
+e 93.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textohm on input line 100.
+
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textlbrackdbl on input lin
+e 101.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textrbrackdbl on input lin
+e 102.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textuparrow on input line 
+103.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdownarrow on input lin
+e 104.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasciigrave on input li
+ne 105.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textborn on input line 106
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdivorced on input line
+ 107.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdied on input line 108
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textleaf on input line 109
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textmarried on input line 
+110.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textmusicalnote on input l
+ine 111.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texttildelow on input line
+ 112.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdblhyphenchar on input
+ line 113.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasciibreve on input li
+ne 114.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasciicaron on input li
+ne 115.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textacutedbl on input line
+ 116.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textgravedbl on input line
+ 117.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdagger on input line 1
+18.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdaggerdbl on input lin
+e 119.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textbardbl on input line 1
+20.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textperthousand on input l
+ine 121.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textbullet on input line 1
+22.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcelsius on input line 
+123.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdollaroldstyle on inpu
+t line 124.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcentoldstyle on input 
+line 125.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textflorin on input line 1
+26.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcolonmonetary on input
+ line 127.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textwon on input line 128.
+
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textnaira on input line 12
+9.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textguarani on input line 
+130.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textpeso on input line 131
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textlira on input line 132
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textrecipe on input line 1
+33.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textinterrobang on input l
+ine 134.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textinterrobangdown on inp
+ut line 135.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdong on input line 136
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texttrademark on input lin
+e 137.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textpertenthousand on inpu
+t line 138.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textpilcrow on input line 
+139.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textbaht on input line 140
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textnumero on input line 1
+41.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdiscount on input line
+ 142.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textestimated on input lin
+e 143.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textopenbullet on input li
+ne 144.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textservicemark on input l
+ine 145.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textlquill on input line 1
+46.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textrquill on input line 1
+47.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcent on input line 148
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textsterling on input line
+ 149.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcurrency on input line
+ 150.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textyen on input line 151.
+
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textbrokenbar on input lin
+e 152.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textsection on input line 
+153.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasciidieresis on input
+ line 154.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcopyright on input lin
+e 155.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textordfeminine on input l
+ine 156.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcopyleft on input line
+ 157.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textlnot on input line 158
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textcircledP on input line
+ 159.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textregistered on input li
+ne 160.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasciimacron on input l
+ine 161.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdegree on input line 1
+62.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textpm on input line 163.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texttwosuperior on input l
+ine 164.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textthreesuperior on input
+ line 165.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textasciiacute on input li
+ne 166.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textmu on input line 167.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textparagraph on input lin
+e 168.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textperiodcentered on inpu
+t line 169.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textreferencemark on input
+ line 170.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textonesuperior on input l
+ine 171.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textordmasculine on input 
+line 172.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textsurd on input line 173
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textonequarter on input li
+ne 174.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textonehalf on input line 
+175.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textthreequarters on input
+ line 176.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texteuro on input line 177
+.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\texttimes on input line 17
+8.
+LaTeX Font Info:    Redeclaring math symbol \TS1math\textdiv on input line 179.
+
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks16
-)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
@@ -543,8 +940,8 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks18
-\symAMSa=\mathgroup5
-\symAMSb=\mathgroup6
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
@@ -585,7 +982,7 @@ LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count97
 \c@MaxMatrixCols=\count98
-\dotsspace@=\muskip10
+\dotsspace@=\muskip11
 \c@parentequation=\count99
 \dspbrk@lvl=\count100
 \tag@help=\toks20
@@ -655,30 +1052,41 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./_core.aux)
+(./_core.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 4.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
 \openout1 = `_core.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Try loading font information for T2A+ftm on input line 46.
-LaTeX Font Info:    No file T2Aftm.fd. on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Try loading font information for TS1+PTSerif-TLF on input l
+ine 57.
 
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/TS1PTSerif-TLF.fd
+File: TS1PTSerif-TLF.fd 2011/02/21 Font definitions for TS1/PTSerif-TLF.
+)
+LaTeX Font Info:    Try loading font information for T2A+PTSerif-TLF on input l
+ine 57.
 
-LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 46.
-
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/T2APTSerif-TLF.fd
+File: T2APTSerif-TLF.fd 2011/02/21 Font definitions for T2A/PTSerif-TLF.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -770,138 +1178,236 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(./0_intro.tex
+LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/n' in size <17.28> not avail
+able
+(Font)              Font shape `T2A/PTSerif-TLF/b/n' tried instead on input lin
+e 1.
+) (./1_construct.tex [1
 
-LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 51.
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/n' in size <20.74> not avail
+able
+(Font)              Font shape `T2A/PTSerif-TLF/b/n' tried instead on input lin
+e 3.
+ (./11_construct.tex
+LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/n' in size <14.4> not availa
+ble
+(Font)              Font shape `T2A/PTSerif-TLF/b/n' tried instead on input lin
+e 2.
 
-(./_core.toc
-LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
-LaTeX Font Info:    No file OT1ftm.fd. on input line 1.
+Overfull \hbox (2.64847pt too wide) in paragraph at lines 9--10
+ \T2A/PTSerif-TLF/b/n/14.4 1.1.2.1 Естественно-языковое опи-са-ние про-цес-са.[
+] \T2A/PTSerif-TLF/m/n/14.4 В хо-де со-зда-ния по-
+ []
 
 
-LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 1.
+Overfull \hbox (2.30292pt too wide) in paragraph at lines 11--13
+[]\T2A/PTSerif-TLF/m/n/14.4 Для это-го мож-но ис-поль-зо-вать раз-лич-ные ме-то
+-ды, ос-но-ван-ные на гло-
+ []
 
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+[2]
+Overfull \hbox (0.44414pt too wide) in paragraph at lines 23--24
+[]\T2A/PTSerif-TLF/m/n/14.4 При та-ком ги-брид-ном ме-то-де дан-ные с ви-део-ка
+-ме-ры и дан-ные с инер-
+ []
+
+
+Overfull \hbox (8.2645pt too wide) in paragraph at lines 25--27
+[]\T2A/PTSerif-TLF/m/n/14.4 Таким об-ра-зом, в про-цес-се функ-ци-о-ни-ро-ва-ни
+я спро-ек-ти-ро-ван-но-го мо-
+ []
+
+<pics/predmetOblast.png, id=12, 809.0225pt x 538.01pt>
+File: pics/predmetOblast.png Graphic file (type png)
+
+<use pics/predmetOblast.png>
+Package pdftex.def Info: pics/predmetOblast.png used on input line 33.
+(pdftex.def)             Requested size: 409.72125pt x 272.46869pt.
+
+Overfull \hbox (16.08487pt too wide) in paragraph at lines 40--41
+ \T2A/PTSerif-TLF/b/n/14.4 1.1.2.3 Вы-чис-ле-ние оп-ти-че-ско-го по-то-ка.[] Оп
+-ти-че-ский по-ток \T2A/PTSerif-TLF/m/n/14.4 ^^V это изоб-
+ []
+
+[3]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>><<t1.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write3
-\openout3 = `_core.toc'.
-
-
-(./_economic.tex [1
-
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (7.79527pt too wide) in paragraph at lines 6--7
-[]\T2A/ftm/bx/n/14.4 Процесс раз-ра-бот-ки слож-но-го про-грамм-но-го про-дук-т
-а со-про-вож-да-ет-ся необ-
+)
+Overfull \hbox (1.56621pt too wide) in paragraph at lines 46--48
+[]\T2A/PTSerif-TLF/m/n/14.4 С ма-те-ма-ти-че-ской точ-ки зре-ния дан-ный ал-го-
+ритм мож-но опи-сать сле-
  []
 
-[2]
-Overfull \hbox (0.754pt too wide) in paragraph at lines 88--89
-[]\T2A/ftm/bx/n/14.4 Трудоемкость раз-ра-бот-ки про-ек-та по каж-до-му участ-ни
--ку мо-жет быть опре-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-[]|\T2A/ftm/bx/n/14.4 1.1 Фор-му-ли-ров-ка и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-\T2A/ftm/bx/n/14.4 ти-ро-ва-ние (раз-ра-бот-ка
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
-\T2A/ftm/bx/n/14.4 ва-ние (ко-ди-ро-ва-ние и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-[]|\T2A/ftm/bx/n/14.4 2.4. Раз-ра-бот-ка про-
- []
-
-[4]
-Overfull \hbox (11.98093pt too wide) in paragraph at lines 164--165
-[]\T2A/ftm/bx/n/14.4 Для опре-де-ле-ния сред-ней за-ра-бот-ной пла-ты аналитика
--руководителя неболь-
- []
-
-
-Overfull \hbox (4.7773pt too wide) in paragraph at lines 168--169
-[]\T2A/ftm/bx/n/14.4 портал по-ис-ка пред-ло-же-ний по тру-до-устрой-ству HeadH
-unter. Ад-рес: www.hh.ru 
+[4 <./pics/predmetOblast.png>]
+Overfull \hbox (2.19588pt too wide) in paragraph at lines 61--62
+\T2A/PTSerif-TLF/m/n/14.4 бы-ли сде-ла-ны несколь-ко гру-бых до-пу-ще-ний. Но о
+пи-са-ние ал-го-рит-ма Лукаса-
  []
 
 [5]
-Overfull \hbox (1.11844pt too wide) in paragraph at lines 172--173
-[]\T2A/ftm/bx/n/14.4 В ре-зуль-та-те в ка-че-стве сред-ней за-ра-бот-ной пла-ты
- аналитика-руководителя
+Overfull \hbox (1.5697pt too wide) in paragraph at lines 68--69
+\T2A/PTSerif-TLF/b/n/14.4 устройств[] \T2A/PTSerif-TLF/m/n/14.4 На-ви-га-ци-он-
+ные ре-ше-ния над-ле-жа-ще-го ка-че-ства мо-гут быть по-
+ []
+
+
+Overfull \hbox (14.2717pt too wide) in paragraph at lines 70--71
+\T2A/PTSerif-TLF/m/n/14.4 как ор-то-го-наль-ную три-а-ду ги-ро-ско-пов и ак-се-
+ле-ро-мет-ров, вы-пол-ня-ю-щих непо-
+ []
+
+
+Overfull \hbox (5.9197pt too wide) in paragraph at lines 70--71
+\T2A/PTSerif-TLF/m/n/14.4 сред-ствен-ные геопро-стран-ствен-ные из-ме-ре-ния и 
+вы-чис-ли-тель-ный блок, осу-
+ []
+
+
+Overfull \hbox (1.81451pt too wide) in paragraph at lines 70--71
+\T2A/PTSerif-TLF/m/n/14.4 ществ-ля-ю-щий ал-го-рит-ми-че-ские пре-об-ра-зо-ва-н
+ия дан-ных непо-сред-ствен-ных
+ []
+
+
+Overfull \hbox (4.06903pt too wide) in paragraph at lines 72--73
+\T2A/PTSerif-TLF/m/n/14.4 ви-си-мо-сти от ме-сто-по-ло-же-ния, ско-ро-сти и дру
+-гих па-ра-мет-ров но-си-те-ля. Точ-
  []
 
 [6]
-Overfull \hbox (4.21858pt too wide) in paragraph at lines 218--221
-[]\T2A/ftm/bx/n/14.4 индивидуальные пред-при-ни-ма-те-ли, ад-во-ка-ты, но-та-ри
--усы, за-ни-ма-ю-щи-е-ся част-
+LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/it' in size <14.4> not avail
+able
+(Font)              Font shape `T2A/PTSerif-TLF/b/it' tried instead on input li
+ne 85.
+
+Overfull \hbox (11.97969pt too wide) in paragraph at lines 87--88
+[]\T2A/PTSerif-TLF/m/n/14.4 Обладая чув-стви-тель-но-стью к зем-ной гра-ви-та-ц
+ии, ак-се-ле-ро-мет-ры обес-
  []
 
-[7]
-Overfull \hbox (8.36055pt too wide) in paragraph at lines 245--247
-[]\T2A/ftm/bx/n/14.4 Получаем, что за-тра-ты на услу-ги сто-рон-них ор-га-ни-за
--ций со-став-ля-ют $С[] \OT1/cmr/m/n/14.4 =
+<pics/tangazh.png, id=37, 453.695pt x 257.96375pt>
+File: pics/tangazh.png Graphic file (type png)
+ <use pics/tangazh.png>
+Package pdftex.def Info: pics/tangazh.png used on input line 90.
+(pdftex.def)             Requested size: 307.2929pt x 174.72418pt.
+
+[7 <./pics/tangazh.png>]
+<pics/acelerometr.png, id=44, 563.10374pt x 332.24126pt>
+File: pics/acelerometr.png Graphic file (type png)
+
+<use pics/acelerometr.png>
+Package pdftex.def Info: pics/acelerometr.png used on input line 110.
+(pdftex.def)             Requested size: 307.2929pt x 181.30869pt.
+ [8 <./pics/acelerometr.png>]
+Overfull \hbox (11.46526pt too wide) in paragraph at lines 126--127
+[]\T2A/PTSerif-TLF/b/n/14.4 Необходимость в спе-ци-аль-ном обо-ру-до-ва-нии \T2
+A/PTSerif-TLF/m/n/14.4 - ис-хо-дя из за-да-чи, пред-
  []
 
-[8]
-Overfull \hbox (0.29051pt too wide) in paragraph at lines 254--256
-[]\T2A/ftm/bx/n/14.4 Таким об-ра-зом, за-тра-ты на на-клад-ные рас-хо-ды со-ста
-в-ля-ют: $С[] \OT1/cmr/m/n/14.4 = (0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 125 
-+
+
+Overfull \hbox (2.44115pt too wide) in paragraph at lines 126--127
+\T2A/PTSerif-TLF/m/n/14.4 си-сте-мах. В свя-зи с этим необ-хо-ди-мо обес-пе-чит
+ь кор-рект-ную ра-бо-ту под-
+ []
+
+
+Overfull \hbox (14.89122pt too wide) in paragraph at lines 127--128
+[]\T2A/PTSerif-TLF/b/n/14.4 Стоимость необ-хо-ди-мо-го обо-ру-до-ва-ния \T2A/PT
+Serif-TLF/m/n/14.4 ^^U ис-хо-дя из преды-ду-ще-го пунк-
  []
 
 [9]
-Overfull \hbox (4.9437pt too wide) in paragraph at lines 301--302
-[]\T2A/ftm/bx/n/14.4 Для те-сти-ро-ва-ния раз-ра-ба-ты-ва-е-мой под-си-сте-мы н
-еоб-хо-ди-мо вы-пол-нить сле-
+Overfull \hbox (6.46733pt too wide) in paragraph at lines 130--131
+[]\T2A/PTSerif-TLF/b/n/14.4 Возможность сво-бод-но-го ис-поль-зо-ва-ния \T2A/PT
+Serif-TLF/m/n/14.4 ^^U неред-ко раз-ра-бот-чи-ки про-
  []
 
-[10]) [11] (./_core.aux)
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+Overfull \hbox (0.86412pt too wide) in paragraph at lines 137--138
+ \T2A/PTSerif-TLF/b/n/14.4 1.1.4.1 Срав-ни-тель-ный ана-лиз[] \T2A/PTSerif-TLF/
+m/n/14.4 Для срав-не-ния пред-став-лен-ных ва-ри-ан-
+ []
 
- ) 
+
+Overfull \hbox (10.56235pt too wide) in paragraph at lines 137--138
+\T2A/PTSerif-TLF/m/n/14.4 маль-но-му зна-че-нию это-го ин-те-граль-но-го по-ка-
+за-те-ля. Ме-тод взве-шен-ной сум-
+ []
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 141.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 141.
+
+[10])
+Overfull \hbox (0.46086pt too wide) in paragraph at lines 10--11
+ \T2A/PTSerif-TLF/b/n/14.4 1.2.1.1 Опре-де-ле-ние со-ста-ва ком-по-нен-тов[] \T
+2A/PTSerif-TLF/m/n/14.4 Ис-хо-дя из ана-ли-за функ-ций
+ []
+
+
+Overfull \hbox (4.13457pt too wide) in paragraph at lines 15--16
+[]\T2A/PTSerif-TLF/b/n/14.4 модуль об-ра-бот-ки дан-ных с инер-ци-он-ных при-бо
+-ров \T2A/PTSerif-TLF/m/n/14.4 (про-из-во-дит ма-
+ []
+
+[11]) (./_core.bbl [12]
+Underfull \hbox (badness 3803) in paragraph at lines 39--44
+\T2A/PTSerif-TLF/m/n/14.4 лек-тив-нй блог Habrahabr.  Ре-жим до-сту-па: $http :
+ / / habrahabr . ru / post /
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 57--62
+[]\T2A/PTSerif-TLF/m/n/14.4 Рыскание. Сво-бод-ная эн-цик-ло-пе-дия Ви-ки-пе-дия
+.  Ре-жим до-сту-па:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
+\T2A/PTSerif-TLF/m/n/14.4 http : / / ru . wikipedia . org / wiki / %D0 % A0 % D
+1 % 8B % D1 % 81 % D0 % BA % D0 % B0 %
+ []
+
+) [13] (./_core.aux
+LaTeX Font Info:    Try loading font information for T1+PTSerif-TLF on input li
+ne 4.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/paratype/T1PTSerif-TLF.fd
+File: T1PTSerif-TLF.fd 2011/02/21 Font definitions for T1/PTSerif-TLF.
+)) ) 
 Here is how much of TeX's memory you used:
- 4906 strings out of 493315
- 65136 string characters out of 6137905
- 134755 words of memory out of 5000000
- 8204 multiletter control sequences out of 15000+600000
- 10367 words of font info for 31 fonts, out of 8000000 for 9000
+ 5852 strings out of 493315
+ 81527 string characters out of 6137905
+ 138527 words of memory out of 5000000
+ 9078 multiletter control sequences out of 15000+600000
+ 56468 words of font info for 50 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,11n,27p,1031b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/loc
-al/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on _core.pdf (11 pages, 142185 bytes).
+ 38i,6n,29p,1744b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/paratype/ptserif_t2a.en
+c}</usr/local/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF55F.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF75F.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF76F.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/lo
+cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/loca
+l/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on _core.pdf (13 pages, 191587 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
