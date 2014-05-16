@@ -16,7 +16,7 @@
 
 % --- отступы по ГОСТу
 \usepackage{geometry}
-\geometry{left=2cm}
+\geometry{left=2.1cm}
 \geometry{right=1cm}
 \geometry{top=2cm}
 \geometry{bottom=2cm}
@@ -39,31 +39,42 @@
 
 \parindent=15mm                              % абзацный отступ
 \renewcommand{\labelitemi}{--}               % задание маркера для первого уровня ненумерованных списков (тире)
-\renewcommand*\labelenumi{\theenumi)}        % задание вида первого уровня нумерованных списков (цифра со скобкой)
+\renewcommand*\labelenumi{\theenumi.}        % задание вида первого уровня нумерованных списков (цифра со скобкой)
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
 
 \setcounter{secnumdepth}{5}	%нумерация  subsubsub - параграфа
 %\renewcommand\contentsname{Оглавление}
-%\renewcommand\large{\@setfontsize\large{15.5}{17}}
-%\renewcommand\Large{\@setfontsize\Large{16.5}{19}}
-%\renewcommand\theadfont{\normalsize}
+
 
 \makeatletter
 \renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+
+% делаем перенос после параграфа
+\renewcommand\paragraph{%
+   \@startsection{paragraph}{4}{0mm}%
+      {-\baselineskip}%
+      {.5\baselineskip}%
+      {\normalfont\normalsize\bfseries}}
+  
+% убираем висячие строки  
+\sloppy
+\righthyphenmin=2
 
 %-----------------------------------------------------------------------------------------------------------------------
 
 
 
 \begin{document}
-
+\renewcommand{\arraystretch}{1.4} %% increase table rowspacing   
 %\input{0_title}                          % Титульный лист
 %\input{1_referat}                        % Реферат
                                          %
-%\tableofcontents                         %
+\tableofcontents                         %
 \input{0_intro}
 \input{1_construct}
 
-%\input{4_economic}                        %
+\input{4_economic}
+\input{5_ergonomic}                       
 %\input{2_tz}                             % Техническое задание
 %\input{3_arch}                           % Архитектура сети
 %\input{4_princ_otkaz}                    % Принципы построения сетей
@@ -77,6 +88,7 @@
 %\input{12_result}                        % Сравнение результатов
 %\input{13_TEH_END}                       % Выводы
 %\input{14_litra}                         % Литература
+
 
 %\addcontentsline{toc}{chapter}{\bibname}
 \bibliographystyle{utf8gost705u}
