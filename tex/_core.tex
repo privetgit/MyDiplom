@@ -11,9 +11,10 @@
 %\usepackage{pscyr}
 \usepackage{textcomp}                            % красивые шрифты для кириллицы
 \usepackage{url}
+%\usepackage[linktoc=all]{hyperref}
 \urlstyle{rm} 
 %\renewcommand{\rmdefault}{ftm}               % Times New Roman
-
+\usepackage{alltt} % вставка исходынх кодов
 % --- отступы по ГОСТу
 \usepackage{geometry}
 \geometry{left=2.1cm}
@@ -68,7 +69,8 @@
 \renewcommand{\arraystretch}{1.4} %% increase table rowspacing   
 %\input{0_title}                          % Титульный лист
 %\input{1_referat}                        % Реферат
-                                         %
+                
+%\input{terms}            		                         %
 \tableofcontents                         %
 %\input{0_intro}
 \input{1_construct}
@@ -89,7 +91,7 @@
 %\input{13_TEH_END}                       % Выводы
 %\input{14_litra}                         % Литература
 
-
+\newpage
 %\addcontentsline{toc}{chapter}{\bibname}
 \bibliographystyle{utf8gost705u}
 \bibliography{biblio}
