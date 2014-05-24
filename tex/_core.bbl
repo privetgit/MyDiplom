@@ -135,6 +135,28 @@ Gary~Bradski~Adrian~Kaehler. Learning OpenCV.
 \newblock First Edition {изд.}
 \newblock O’Reilly, 2008.  September.
 
+\bibitem{wikiCalibrate}
+\selectlanguageifdefined{russian}
+{Калибровка камеры. Свободная энциклопедия
+  Википедия}.
+\newblock Режим доступа:
+  \url{http://en.wikipedia.org/wiki/Camera_resectioning}.
+\newblock [Дата обращения 20.05.2014].
+
+\bibitem{cameraCalibrate}
+\selectlanguageifdefined{russian}
+{Калибровка камеры на OpenCV. Разработка
+  роботов}.
+\newblock Режим доступа:
+  \url{http://robot-develop.org/archives/2026}.
+\newblock [Дата обращения 05.05.2014].
+
+\bibitem{wikiOpenCV}
+\selectlanguageifdefined{russian}
+{OpenCV. Свободная энциклопедия Википедия}.
+\newblock Режим доступа: \url{http://ru.wikipedia.org/wiki/OpenCV}.
+\newblock [Дата обращения 22.05.2014].
+
 \bibitem{SanPinGigiena}
 \selectlanguageifdefined{russian}
 Санитарно-эпидемиологические правила и
@@ -145,7 +167,7 @@ Gary~Bradski~Adrian~Kaehler. Learning OpenCV.
 
 \bibitem{SanPinAeroIon}
 \selectlanguageifdefined{russian}
-2. Санитарно-эпидемиологические правила и
+Санитарно-эпидемиологические правила и
   нормативы СанПин 2.2.4 1294-03 "Гигиенические
   требования к аэроионному составу воздуха
   производственных и общественных

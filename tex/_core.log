@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.9)  21 MAY 2014 00:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.9)  24 MAY 2014 14:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,12 +1181,15 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(./referat.tex
 LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/n' in size <20.74> not avail
 able
 (Font)              Font shape `T2A/PTSerif-TLF/b/n' tried instead on input lin
-e 74.
+e 2.
+) [1
 
-(./_core.toc
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./_cor
+e.toc
 LaTeX Font Info:    Try loading font information for T1+PTSerif-TLF on input li
 ne 1.
 
@@ -1198,30 +1201,33 @@ ble
 (Font)              Font shape `T2A/PTSerif-TLF/b/n' tried instead on input lin
 e 2.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [2])
 \tf@toc=\write3
 \openout3 = `_core.toc'.
 
 
-(./1_construct.tex [1
+(./normLinks.tex [3]
+Underfull \hbox (badness 3439) in paragraph at lines 20--21
+[]\T2A/PTSerif-TLF/m/n/14.4 ГОСТ 6.38. <<Уни-фи-ци-ро-ван-ные си-сте-мы до-ку-м
+ен-та-ции. Си-сте-ма
+ []
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./11_c
-onstruct.tex
+) (./terms.tex [4]) (./1_construct.tex [5] (./11_construct.tex
 LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/n' in size <17.28> not avail
 able
 (Font)              Font shape `T2A/PTSerif-TLF/b/n' tried instead on input lin
 e 1.
- [2]
-<pics/predmetOblast.png, id=17, 809.0225pt x 538.01pt>
+ [6]
+<pics/predmetOblast.png, id=29, 809.0225pt x 538.01pt>
 File: pics/predmetOblast.png Graphic file (type png)
 
 <use pics/predmetOblast.png>
@@ -1233,55 +1239,55 @@ Underfull \hbox (badness 1303) in paragraph at lines 42--43
  каж-до-го неболь-шо-го
  []
 
-[3] [4 <./pics/predmetOblast.png>] [5]
+[7] [8 <./pics/predmetOblast.png>] [9]
 Underfull \hbox (badness 2635) in paragraph at lines 70--71
 []\T2A/PTSerif-TLF/m/n/14.4 В наи-бо-лее об-щей фор-ме мож-но опре-де-лить инер
 -ци-аль-ную си-
  []
 
-[6]
+[10]
 LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/it' in size <14.4> not avail
 able
 (Font)              Font shape `T2A/PTSerif-TLF/b/it' tried instead on input li
 ne 85.
- <pics/tangazh.png, id=37, 453.695pt x 257.96375pt>
+ <pics/tangazh.png, id=50, 453.695pt x 257.96375pt>
 File: pics/tangazh.png Graphic file (type png)
  <use pics/tangazh.png>
 Package pdftex.def Info: pics/tangazh.png used on input line 90.
 (pdftex.def)             Requested size: 305.58562pt x 173.75194pt.
 
-[7 <./pics/tangazh.png>]
-<pics/acelerometr.png, id=44, 563.10374pt x 332.24126pt>
+[11 <./pics/tangazh.png>]
+<pics/acelerometr.png, id=56, 563.10374pt x 332.24126pt>
 File: pics/acelerometr.png Graphic file (type png)
 
 <use pics/acelerometr.png>
 Package pdftex.def Info: pics/acelerometr.png used on input line 111.
 (pdftex.def)             Requested size: 305.58562pt x 180.29984pt.
- [8] [9 <./pics/acelerometr.png>]
+ [12] [13 <./pics/acelerometr.png>]
 Underfull \hbox (badness 3029) in paragraph at lines 134--135
 \T2A/PTSerif-TLF/m/n/14.4 огра-ни-чен-ная мак-си-маль-ной ско-ро-стью пе-ре-ме-
 ще-ния ее но-си-те-ля.
  []
 
-[10]
+[14]
 Underfull \hbox (badness 6332) in paragraph at lines 159--163
 \T2A/PTSerif-TLF/m/n/14.4 на-кла-ды-вет огра-ни-че-ния на из-ме-не-ния па-рам-т
 е-ров от-но-си-тель-но
  []
 
-[11] [12] [13]
+[15] [16] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 212--213
 []\T2A/PTSerif-TLF/m/n/14.4 Небольшая груп-па ин-же-не-ров ATAP (Advanced Techn
 ology and
  []
 
-[14]
+[18]
 Underfull \hbox (badness 1248) in paragraph at lines 227--229
 \T2A/PTSerif-TLF/m/n/14.4 не-ния ви-део-изоб-ра-же-ний, по-лу-чен-ных при пер-в
 ич-ном и по-сле-ду-ю-щем
  []
 
-[15] [16]
+[19] [20]
 Underfull \hbox (badness 3758) in paragraph at lines 237--238
 []\T2A/PTSerif-TLF/m/n/14.4 Управление дви-же-ни-ем по-сред-ством ана-ли-за ви-
 део-изоб-ра-же-ний
@@ -1293,7 +1299,7 @@ Underfull \hbox (badness 4752) in paragraph at lines 237--238
 -ле-ния ме-сто-по-ло-же-ния
  []
 
-[17]
+[21]
 
 LaTeX Warning: Command \textellipsis invalid in math mode on input line 246.
 
@@ -1340,7 +1346,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--274
 \T2A/PTSerif-TLF/m/n/14.4 сво-бод-но-го
  []
 
-[18]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []|\T2A/PTSerif-TLF/m/n/14.4 Для функ-ци-о-ни-ро-ва-ния
  []
@@ -1595,11 +1601,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--359
 []|\T2A/PTSerif-TLF/m/n/14.4 Лингв.
  []
 
-[19]
+[23]
 Overfull \vbox (4.50734pt too high) has occurred while \output is active []
 
 
-[20]
+[24]
 Overfull \hbox (7.26163pt too wide) in paragraph at lines 385--385
 []|\T2A/PTSerif-TLF/m/n/14.4 Проектиру- 
  []
@@ -1653,19 +1659,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--397
 \T2A/PTSerif-TLF/m/n/14.4 сво-бод-но-го
  []
 
-[21]) [22] <pics/achitecture.png, id=97, 697.60625pt x 338.26375pt>
+[25]) [26] <pics/achitecture.png, id=110, 697.60625pt x 338.26375pt>
 File: pics/achitecture.png Graphic file (type png)
 
 <use pics/achitecture.png>
 Package pdftex.def Info: pics/achitecture.png used on input line 35.
 (pdftex.def)             Requested size: 407.4449pt x 197.56606pt.
- [23 <./pics/achitecture.png>]
+ [27 <./pics/achitecture.png>]
 Underfull \hbox (badness 2277) in paragraph at lines 67--68
 []\T2A/PTSerif-TLF/m/n/14.4 Разделение все-го оп-ти-че-ско-го по-то-ка на две ч
 а-сти: ѕна-зем-нуюї и
  []
 
-[24] <pics/visualOdometryProcess.png, id=105, 543.02875pt x 486.81876pt>
+[28] <pics/visualOdometryProcess.png, id=118, 543.02875pt x 486.81876pt>
 File: pics/visualOdometryProcess.png Graphic file (type png)
 
 <use pics/visualOdometryProcess.png>
@@ -1677,14 +1683,14 @@ Underfull \hbox (badness 1365) in paragraph at lines 84--86
 тав-ля-ет со-бой
  []
 
-[25 <./pics/visualOdometryProcess.png>]
-<pics/integrals.png, id=111, 769.87625pt x 506.89375pt>
+[29 <./pics/visualOdometryProcess.png>]
+<pics/integrals.png, id=123, 769.87625pt x 506.89375pt>
 File: pics/integrals.png Graphic file (type png)
 
 <use pics/integrals.png>
 Package pdftex.def Info: pics/integrals.png used on input line 107.
 (pdftex.def)             Requested size: 407.4449pt x 268.2734pt.
- [26] [27 <./pics/integrals.png>]
+ [30] [31 <./pics/integrals.png>]
 LaTeX Font Info:    Try loading font information for T2A+PTMono-TLF on input li
 ne 147.
 
@@ -1692,52 +1698,45 @@ ne 147.
 File: T2APTMono-TLF.fd 2013/04/01 (autoinst with patch) Font definitions for T2
 A/PTMono-TLF.
 )
-[28]
+[32]
 Underfull \hbox (badness 1087) in paragraph at lines 169--170
 []\T2A/PTSerif-TLF/m/n/14.4 На прак-ти-ке рас-чет плот-но-го оп-ти-че-ско-го по
 -то-ка за-труд-ни-те-лен.
  []
 
-[29]
+[33]
 LaTeX Font Info:    Font shape `T2A/PTSerif-TLF/bx/it' in size <17.28> not avai
 lable
 (Font)              Font shape `T2A/PTSerif-TLF/b/it' tried instead on input li
 ne 175.
- <pics/pyrLK.png, id=126, 713.66624pt x 431.6125pt>
+ <pics/pyrLK.png, id=139, 713.66624pt x 431.6125pt>
 File: pics/pyrLK.png Graphic file (type png)
  <use pics/pyrLK.png>
 Package pdftex.def Info: pics/pyrLK.png used on input line 182.
 (pdftex.def)             Requested size: 407.4449pt x 246.41682pt.
 
-[30] [31 <./pics/pyrLK.png>]
-<pics/optFlow1D.png, id=136, 431.6125pt x 154.5775pt>
+[34] [35 <./pics/pyrLK.png>]
+<pics/optFlow1D.png, id=148, 431.6125pt x 154.5775pt>
 File: pics/optFlow1D.png Graphic file (type png)
  <use pics/optFlow1D.png>
 Package pdftex.def Info: pics/optFlow1D.png used on input line 222.
 (pdftex.def)             Requested size: 407.4449pt x 145.92789pt.
 
-<pics/OptFlow1DSolve.png, id=137, 423.5825pt x 169.63374pt>
+<pics/OptFlow1DSolve.png, id=149, 423.5825pt x 169.63374pt>
 File: pics/OptFlow1DSolve.png Graphic file (type png)
 
 <use pics/OptFlow1DSolve.png>
 Package pdftex.def Info: pics/OptFlow1DSolve.png used on input line 234.
 (pdftex.def)             Requested size: 407.4449pt x 163.17784pt.
- [32 <./pics/optFlow1D.png>]
-<pics/Gaussian2d.png, id=142, 378.6948pt x 289.08pt>
+ [36 <./pics/optFlow1D.png>]
+<pics/Gaussian2d.png, id=154, 378.6948pt x 289.08pt>
 File: pics/Gaussian2d.png Graphic file (type png)
  <use pics/Gaussian2d.png>
 Package pdftex.def Info: pics/Gaussian2d.png used on input line 260.
 (pdftex.def)             Requested size: 407.4449pt x 311.02841pt.
 
-[33 <./pics/OptFlow1DSolve.png>] [34 <./pics/Gaussian2d.png>]
-
-LaTeX Warning: Citation `wikiCalibrate' on page 35 undefined on input line 337.
-
-
-
-LaTeX Warning: Citation `openCVBook' on page 35 undefined on input line 339.
-
-<pics/cameraModel.png, id=151, 716.6775pt x 287.0725pt>
+[37 <./pics/OptFlow1DSolve.png>] [38 <./pics/Gaussian2d.png>]
+<pics/cameraModel.png, id=164, 716.6775pt x 287.0725pt>
 File: pics/cameraModel.png Graphic file (type png)
 
 <use pics/cameraModel.png>
@@ -1755,7 +1754,541 @@ Underfull \hbox (badness 6157) in paragraph at lines 357--358
 -ме-ры с ПЗС-
  []
 
-[35] [36 <./pics/cameraModel.png (PNG copy)>] [37]) [38] (./_core.bbl
+[39] [40 <./pics/cameraModel.png (PNG copy)>]
+<pics/distorb.png, id=171, 422.32782pt x 182.93344pt>
+File: pics/distorb.png Graphic file (type png)
+ <use pics/distorb.png>
+Package pdftex.def Info: pics/distorb.png used on input line 401.
+(pdftex.def)             Requested size: 407.4449pt x 176.49057pt.
+
+[41 <./pics/distorb.png>] [42] [43]) (./2_techno.tex [44]) (./3_research.tex
+[45] [46] [47] [48] [49]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]\T2A/PTSerif-TLF/m/n/14.4 Отпический по-ток вы-счи-ты-вал-ся 3-мя ме-то-да-ми
+: SimpleFlow,
+ []
+
+<pics/compareMethods.png, id=201, 724.7075pt x 474.77374pt>
+File: pics/compareMethods.png Graphic file (type png)
+
+<use pics/compareMethods.png>
+Package pdftex.def Info: pics/compareMethods.png used on input line 107.
+(pdftex.def)             Requested size: 407.4449pt x 266.92917pt.
+ [50] [51 <./pics/compareMethods.png>]
+<pics/3FB_pyrscale.png, id=209, 724.7075pt x 473.77pt>
+File: pics/3FB_pyrscale.png Graphic file (type png)
+
+<use pics/3FB_pyrscale.png>
+Package pdftex.def Info: pics/3FB_pyrscale.png used on input line 135.
+(pdftex.def)             Requested size: 239.37358pt x 156.48193pt.
+
+<pics/3FB_levels.png, id=210, 725.71124pt x 474.77374pt>
+File: pics/3FB_levels.png Graphic file (type png)
+
+<use pics/3FB_levels.png>
+Package pdftex.def Info: pics/3FB_levels.png used on input line 139.
+(pdftex.def)             Requested size: 239.37358pt x 156.60336pt.
+
+<pics/3FB_winsize.png, id=211, 726.715pt x 476.78125pt>
+File: pics/3FB_winsize.png Graphic file (type png)
+
+<use pics/3FB_winsize.png>
+Package pdftex.def Info: pics/3FB_winsize.png used on input line 143.
+(pdftex.def)             Requested size: 239.37358pt x 157.04729pt.
+
+<pics/3FB_interation.png, id=212, 724.7075pt x 473.77pt>
+File: pics/3FB_interation.png Graphic file (type png)
+
+<use pics/3FB_interation.png>
+Package pdftex.def Info: pics/3FB_interation.png used on input line 147.
+(pdftex.def)             Requested size: 239.37358pt x 156.48193pt.
+
+<pics/3FB_polyn.png, id=213, 722.7pt x 472.76625pt>
+File: pics/3FB_polyn.png Graphic file (type png)
+ <use pics/3FB_polyn.png>
+Package pdftex.def Info: pics/3FB_polyn.png used on input line 152.
+(pdftex.def)             Requested size: 239.37358pt x 156.59044pt.
+
+<pics/3SF_layers.png, id=214, 723.70375pt x 475.7775pt>
+File: pics/3SF_layers.png Graphic file (type png)
+
+<use pics/3SF_layers.png>
+Package pdftex.def Info: pics/3SF_layers.png used on input line 175.
+(pdftex.def)             Requested size: 239.37358pt x 157.37004pt.
+
+<pics/3SF_avgBlockSize.png, id=215, 722.7pt x 469.755pt>
+File: pics/3SF_avgBlockSize.png Graphic file (type png)
+
+<use pics/3SF_avgBlockSize.png>
+Package pdftex.def Info: pics/3SF_avgBlockSize.png used on input line 179.
+(pdftex.def)             Requested size: 239.37358pt x 155.59306pt.
+
+<pics/3SF_maxflow.png, id=216, 724.7075pt x 469.755pt>
+File: pics/3SF_maxflow.png Graphic file (type png)
+
+<use pics/3SF_maxflow.png>
+Package pdftex.def Info: pics/3SF_maxflow.png used on input line 184.
+(pdftex.def)             Requested size: 239.37358pt x 155.15582pt.
+
+Underfull \hbox (badness 5064) in paragraph at lines 191--192
+\T2A/PTSerif-TLF/m/n/14.4 max--flow, но так как он огра-ни-чи-ва-ет зна-че-ния 
+мак-си-маль-но-го оп-
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 191--192
+\T2A/PTSerif-TLF/m/n/14.4 ти-че-ско-го по-то-ка, то для на-хож-де-ния всех воз-
+мож-ных сдви-гов в хо-
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 191--192
+\T2A/PTSerif-TLF/m/n/14.4 де быст-ро-го дви-же-ния в кад-ре, этот па-ра-метр до
+л-жен быть бли-зок к
+ []
+
+[52] [53 <./pics/3FB_pyrscale.png> <./pics/3FB_levels.png> <./pics/3FB_winsize.
+png> <./pics/3FB_interation.png> <./pics/3FB_polyn.png>] [54 <./pics/3SF_layers
+.png> <./pics/3SF_avgBlockSize.png> <./pics/3SF_maxflow.png>])
+(./4_economic.tex [55] [56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\T2A/PTSerif-TLF/m/n/14.4 1.1 Фор-му-ли-ров-ка и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]|\T2A/PTSerif-TLF/m/n/14.4 1.2. Ис-сле-до-ва-ние и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]|\T2A/PTSerif-TLF/m/n/14.4 1.3. Раз-ра-бот-ка и
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 114--115
+[]|\T2A/PTSerif-TLF/m/n/14.4 2.1. Тех-ни-че-ское про-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\T2A/PTSerif-TLF/m/n/14.4 ек-ти-ро-ва-ние (раз-ра-
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 117--118
+[]|\T2A/PTSerif-TLF/m/n/14.4 2.2. Ра-бо-чее про-ек-ти-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 117--118
+\T2A/PTSerif-TLF/m/n/14.4 ро-ва-ние (ко-ди-ро-ва-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\T2A/PTSerif-TLF/m/n/14.4 и те-сти-ро-ва-ние про-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 120--121
+[]|\T2A/PTSerif-TLF/m/n/14.4 2.3. Те-сто-вые ис-пы-та-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]|\T2A/PTSerif-TLF/m/n/14.4 2.4. Раз-ра-бот-ка про-
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 123--124
+\T2A/PTSerif-TLF/m/n/14.4 грамм-ной до-ку-мен-та-
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 135--136
+[]\T2A/PTSerif-TLF/m/n/14.4 Для опре-де-ле-ния тру-до-ем-ко-сти раз-ра-бот-ки п
+ро-ек-та по каж-до-му
+ []
+
+[58] [59]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+[]\T2A/PTSerif-TLF/m/n/14.4 Для опре-де-ле-ния сред-ней за-ра-бот-ной пла-ты ан
+алитика-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+[]\T2A/PTSerif-TLF/m/n/14.4 портал по-ис-ка пред-ло-же-ний по тру-до-устрой-ств
+у Job.ru. Ад-рес:
+ []
+
+[60] [61] [62] [63] [64] [65]) (./5_ergonomic.tex [66]
+Underfull \hbox (badness 1735) in paragraph at lines 10--11
+\T2A/PTSerif-TLF/m/n/14.4 2.2.4.548-96 <<Ги-ги-е-ни-че-ские тре-бо-ва-ния к мик
+-ро-кли-ма-ту про-из-вод-
+ []
+
+[67] [68]
+Underfull \hbox (badness 1681) in paragraph at lines 49--50
+[]\T2A/PTSerif-TLF/m/n/14.4 Поверхность си-де-нья, спин-ки и дру-гих эле-мен-то
+в сту-ла (крес-ла)
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]|\T2A/PTSerif-TLF/m/n/14.4 Угол на-кло-на спин-ки в вер-ти-каль-ной
+ []
+
+[70] [71]
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]|\T2A/PTSerif-TLF/m/n/14.4 Период
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]|\T2A/PTSerif-TLF/m/n/14.4 Категория
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+\T2A/PTSerif-TLF/m/n/14.4 ра-бот по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]|\T2A/PTSerif-TLF/m/n/14.4 Темпера
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+\T2A/PTSerif-TLF/m/n/14.4 ту-ра
+ []
+
+
+Overfull \hbox (1.00664pt too wide) in paragraph at lines 140--140
+\T2A/PTSerif-TLF/m/n/14.4 воздуха,$[]\T2A/cmr/m/n/14.4 С$| 
+ []
+
+
+Overfull \hbox (1.74722pt too wide) in paragraph at lines 141--141
+[]|\T2A/PTSerif-TLF/m/n/14.4 Температура
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+\T2A/PTSerif-TLF/m/n/14.4 по-верх-но
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T2A/PTSerif-TLF/m/n/14.4 тельная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\T2A/PTSerif-TLF/m/n/14.4 влаж-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+[]|\T2A/PTSerif-TLF/m/n/14.4 Скорость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\T2A/PTSerif-TLF/m/n/14.4 дви-же-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\T2A/PTSerif-TLF/m/n/14.4 воз-ду-ха,
+ []
+
+
+Overfull \hbox (12.2039pt too wide) in paragraph at lines 136--150
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 165--166
+\T2A/PTSerif-TLF/m/n/14.4 ли-че-ство аэро-и-о-нов в од-ном ку-би-че-ском сан-ти
+-мет-ре воз-ду-ха
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]|\T2A/PTSerif-TLF/m/n/14.4 Нормируемые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\T2A/PTSerif-TLF/m/n/14.4 Концентрация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\T2A/PTSerif-TLF/m/n/14.4 Концентрация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[]|\T2A/PTSerif-TLF/m/n/14.4 Коэффициент
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\T2A/PTSerif-TLF/m/n/14.4 уни-по-ляр-но-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\T2A/PTSerif-TLF/m/n/14.4 Максимально
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+\T2A/PTSerif-TLF/m/n/14.4 со-от-вет-ству-ю-щие, про-шед-шие санитарно-эпидемиол
+огическую
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[]|\T2A/PTSerif-TLF/m/n/14.4 Уровни
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\T2A/PTSerif-TLF/m/n/14.4 зву-ка в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 31,5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 63
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 125
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 250
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 500
+ []
+
+
+Overfull \hbox (2.248pt too wide) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 1000
+ []
+
+
+Overfull \hbox (2.248pt too wide) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 2000
+ []
+
+
+Overfull \hbox (2.248pt too wide) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 4000
+ []
+
+
+Overfull \hbox (2.248pt too wide) in paragraph at lines 233--233
+[]|\T2A/PTSerif-TLF/m/n/14.4 8000
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 86
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 71
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 61
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 54
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 49
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 45
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 42
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 40
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\T2A/PTSerif-TLF/m/n/14.4 38
+ []
+
+[75] [76]
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+[]\T2A/PTSerif-TLF/m/n/14.4 В ка-че-стве ис-точ-ни-ков све-та при ис-кус-ствен-
+ном осве-ще-нии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+\T2A/PTSerif-TLF/m/n/14.4 сле-ду-ет при-ме-нять пре-иму-ще-ствен-но лю-ми-нес-ц
+ент-ные лам-пы ти-
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 274--275
+\T2A/PTSerif-TLF/m/n/14.4 па ЛБ. При устрой-стве от-ра-жен-но-го осве-ще-ния в 
+про-из-вод-ствен-ных и
+ []
+
+[77]
+Overfull \vbox (20.40024pt too high) detected at line 300
+ []
+
+
+Overfull \vbox (37.40024pt too high) detected at line 301
+ []
+
+
+Overfull \hbox (4.8416pt too wide) in paragraph at lines 302--302
+[]|\T2A/PTSerif-TLF/m/n/14.4 Контраст 
+ []
+
+
+Overfull \vbox (3.40024pt too high) detected at line 302
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 306--306
+[]|  \T2A/PTSerif-TLF/m/n/14.4 Ком-би-ни-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--306
+\T2A/PTSerif-TLF/m/n/14.4 ро-ван-ное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+[]|\T2A/PTSerif-TLF/m/n/14.4 Общее
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+\T2A/PTSerif-TLF/m/n/14.4 осве-ще-
+ []
+
+
+Overfull \hbox (2.39365pt too wide) in paragraph at lines 317--317
+[]|\T2A/PTSerif-TLF/m/n/14.4 большой| 
+ []
+
+
+Overfull \hbox (2.39365pt too wide) in paragraph at lines 320--320
+[]|\T2A/PTSerif-TLF/m/n/14.4 большой| 
+ []
+
+
+Overfull \hbox (2.39365pt too wide) in paragraph at lines 321--321
+[]|\T2A/PTSerif-TLF/m/n/14.4 большой| 
+ []
+
+[78] [79] [80] [81]
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+[]|\T2A/PTSerif-TLF/b/n/14.4 Теоретические
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 435--436
+[]|\T2A/PTSerif-TLF/b/n/14.4 Практические зна-
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 437--437
+[]|\T2A/PTSerif-TLF/m/n/14.4 Световой по-ток
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--439
+[]|\T2A/PTSerif-TLF/m/n/14.4 Количество
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 441--441
+[]|\T2A/PTSerif-TLF/m/n/14.4 Световой по-ток
+ []
+
+[82] <pics/room.png, id=316, 809.0225pt x 538.01pt>
+File: pics/room.png Graphic file (type png)
+ <use pics/room.png>
+Package pdftex.def Info: pics/room.png used on input line 466.
+(pdftex.def)             Requested size: 407.4449pt x 270.95816pt.
+
+Underfull \hbox (badness 3148) in paragraph at lines 467--467
+[]\T2A/PTSerif-TLF/m/n/14.4 Рис. 16: Схе-ма рас-по-ло-же-ния све-тиль-ни-ков в 
+по-ме-ще-нии опе-ра-то-ров
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 464--470
+[]\T2A/PTSerif-TLF/m/n/14.4 Схема рас-по-ло-же-ния све-тиль-ни-ков в по-ме-ще-н
+ии изоб-ра-же-на на
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 471--472
+[]\T2A/PTSerif-TLF/m/n/14.4 Списание тех-ни-ки ор-га-ни-за-ция долж-на про-во-д
+ить, под-твер-ждая
+ []
+
+[83 <./pics/room.png>]
+Underfull \hbox (badness 2050) in paragraph at lines 477--478
+[]\T2A/PTSerif-TLF/m/n/14.4 Решение о спи-са-нии ком-пью-те-ров и орг-тех-ни-ки
+ дан-ной ко-мис-сии
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 477--478
+\T2A/PTSerif-TLF/m/n/14.4 непре-мен-но долж-но ба-зи-ро-вать-ся на экс-перт-ном
+ за-клю-че-нии. Экс-
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 477--478
+\T2A/PTSerif-TLF/m/n/14.4 ви-си-мым спе-ци-а-ли-стом. Обя-за-тель-но по-тре-бу-
+ет-ся акт тех-ни-че-ской
+ []
+
+[84]) [85] (./_core.bbl
 Underfull \hbox (badness 3977) in paragraph at lines 23--28
 []\T2A/PTSerif-TLF/m/n/14.4 Оптический по-ток. Сво-бод-ная эн-цик-ло-пе-дия Ви-
 ки-пе-дия.  Ре-жим
@@ -1791,7 +2324,7 @@ Underfull \hbox (badness 1584) in paragraph at lines 87--90
 StereoScan: Dense 3d
  []
 
-[39]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 114--119
 []\T2A/PTSerif-TLF/m/n/14.4 Визуальное опре-де-ле-ние ме-сто-по-ло-же-ния ро-бо
 -та. SMP
@@ -1810,59 +2343,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--119
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--145
+Underfull \hbox (badness 10000) in paragraph at lines 162--167
 []\T2A/PTSerif-TLF/m/n/14.4 Санитарно-эпидемиологические пра-ви-ла и нор-ма-ти-
 вы Сан-ПиН
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--145
+Underfull \hbox (badness 10000) in paragraph at lines 162--167
 \T2A/PTSerif-TLF/m/n/14.4 2.2.2/2.4.1340-03 "Ги-ги-е-ни-че-ские тре-бо-ва-ния к
  пер-со-наль-ным
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 148--153
+Underfull \hbox (badness 1365) in paragraph at lines 170--175
 \T2A/PTSerif-TLF/m/n/14.4 1294-03 "Ги-ги-е-ни-че-ские тре-бо-ва-ния к аэро-ион-
 но-му со-ста-ву воз-ду-ха
  []
 
-) [40] [41] (./_core.aux)
+[87]) [88] (./_core.aux)
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5971 strings out of 493315
- 83873 string characters out of 6137905
- 145952 words of memory out of 5000000
- 9174 multiletter control sequences out of 15000+600000
- 66827 words of font info for 56 fonts, out of 8000000 for 9000
+ 6094 strings out of 493315
+ 86080 string characters out of 6137905
+ 147179 words of memory out of 5000000
+ 9249 multiletter control sequences out of 15000+600000
+ 79285 words of font info for 67 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,12n,29p,2682b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/paratype/ptserif_t2a.enc}
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/paratype/ptmono_t2a.enc}{/u
-sr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</us
-r/local/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF55F.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF56F.pfb></usr/loca
-l/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF75F.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF76F.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/paratype/ptmono/PTM55F.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2
-013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2013/texmf-
-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on _core.pdf (41 pages, 634193 bytes).
+ 38i,14n,29p,2682b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/paratype/ptserif_ts1.enc}
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/paratype/ptserif_t2a.enc}{/
+usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/paratype/ptmono_t2a.enc}{/usr
+/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/
+local/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF55F.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF56F.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF75F.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/paratype/ptserif/PTF76F.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/paratype/ptmono/PTM55F.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2013/texmf-
+dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on _core.pdf (88 pages, 1010593 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
+ 397 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 words of extra memory for PDF output out of 10000 (max. 10000000)
 

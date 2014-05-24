@@ -67,32 +67,22 @@
 
 \begin{document}
 \renewcommand{\arraystretch}{1.4} %% increase table rowspacing   
-%\input{0_title}                          % Титульный лист
-%\input{1_referat}                        % Реферат
-                
-%\input{terms}            		                         %
-\tableofcontents                         %
-%\input{0_intro}
-\input{1_construct}
+\input{referat} 
+\newpage
+                          		                         
+\tableofcontents                         
 
-%\input{4_economic}
-%\input{5_ergonomic}                       
-%\input{2_tz}                             % Техническое задание
-%\input{3_arch}                           % Архитектура сети
-%\input{4_princ_otkaz}                    % Принципы построения сетей
-%\input{5_equipment}                      % Выбор оборудования сети
-%\input{6_netOS}                          % Настройка сетевой ОС
-%\input{7_DBMS}                           % Настройка СУБД
-%\input{8_DB_distrib}                     % Распределение БД по узлам
-%\input{9_model}                          % Исходные данные моделирования
-%\input{10_anal_model}                    % Аналитическое моделирование
-%\input{11_imitat_model}                  % Имитационное моделирование
-%\input{12_result}                        % Сравнение результатов
-%\input{13_TEH_END}                       % Выводы
-%\input{14_litra}                         % Литература
+\input{normLinks}
+\input{terms} 
+\input{1_construct}
+\input{2_techno}
+\input{3_research}
+\input{4_economic}
+\input{5_ergonomic}                       
+
 
 \newpage
-%\addcontentsline{toc}{chapter}{\bibname}
+\addcontentsline{toc}{section}{\bibname}
 \bibliographystyle{utf8gost705u}
 \bibliography{biblio}
 
