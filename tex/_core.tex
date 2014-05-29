@@ -57,17 +57,33 @@
       {.5\baselineskip}%
       {\normalfont\normalsize\bfseries}}
   
-% убираем висячие строки  
+% убираем вылеты за поля 
 \sloppy
 \righthyphenmin=2
 
+\usepackage{float}
+
+%изменение подписей к рисункам на "Рисунок 1 - название" и "Таблица 1 - название
+\usepackage[singlelinecheck=false]{caption}
+\DeclareCaptionLabelSeparator{defffis}{ -- }
+\captionsetup[figure]{justification=centering,labelsep=defffis}
+\captionsetup[table]{justification=raggedright, labelsep=defffis}
+\addto\captionsrussian{\def\figurename{Рисунок}}
+
+% делаем горизонтальную ориентацию
+\usepackage{afterpage}
+\usepackage{pdflscape}
+
+%убиираем висячие строки
+\clubpenalty=10000
+\widowpenalty=10000
 %-----------------------------------------------------------------------------------------------------------------------
 
 
 
 \begin{document}
 \renewcommand{\arraystretch}{1.4} %% increase table rowspacing   
-\input{referat} 
+%\input{referat} 
 \newpage
                           		                         
 \tableofcontents                         
