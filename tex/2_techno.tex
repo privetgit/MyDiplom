@@ -39,7 +39,31 @@
 После устновки необходимого оборудования и его калибровки необходимо согласовать программный интерфейс подсистемы для корректного передачи видеоряда и данных с ИИУ. 
 Подсистема ПАОПО предоставляет следующий API:
 
-PutNewData
+\begin{verbatim}
+PutNewData(Frame currentFrame, Acelleration[] acel,
+Rotation[] rotation, callback onResultAvaliable 
+[,timestamp  currrentTime])
+\end{verbatim}
+\begin{itemize}
+\item \textbf{\textit{Frame currentFrame}} - очердной кадр; 
+\item \textbf{\textit{Acelleration[] acel}} - массив ускорений по осям $oX$, $oY$, $o Z$;
+\item \textbf{\textit{Rotation[] rotation}} - массив угловых скоростей вокруг осей $oX$, $oY$, $o Z$; 
+\item \textbf{\textit{callback onResultAvaliable}} - функция обработчик резултата;
+\item \textbf{\textit{timestamp  currrentTime}} - уникальная метка набора данных. Используется для удентификации выходных данных. 
+\end{itemize}
+
+
+Пользователю необходимо реализовать свой обработчик $onResultAvaliable$ и передать ссылку на этот метод в функцию $PutNewData$. По сигнатуре метод должен быть следующим:
+
+\begin{verbatim}
+onResultAvaliable(int dx, int dy, int dAngle)
+\end{verbatim}
+
+\begin{itemize}
+\item \textbf{\textit{int dx}} - перемещение по оси $oX$;
+\item \textbf{\textit{int dy}} - перемещение по оси $oY$;
+\item \textbf{\textit{int dAngle}} - угол поворота вокруг оси $oZ$.
+\end{itemize}
 
 
 \subsection{Диаргамма взаимодейсвия компонентов}

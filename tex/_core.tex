@@ -77,19 +77,35 @@
 %убиираем висячие строки
 \clubpenalty=10000
 \widowpenalty=10000
+
+
+\renewcommand\appendixname{Приложение}
+\makeatletter
+\def\redeflsection{\def\l@section{\@dottedtocline{1}{1.5em}{7.8em}}}
+\renewcommand\appendix{\par
+\setcounter{section}{0}%
+\setcounter{subsection}{0}%
+\def\@chapapp{\appendixname}%
+\addtocontents{toc}{\protect\redeflsection}
+%\def\thesection{\appendixname\hspace{0.2cm}\@arabic\c@section}}
+\def\thesection{\appendixname\hspace{0.2cm}\@Alph\c@section}}
+\makeatother
 %-----------------------------------------------------------------------------------------------------------------------
 
 
 
 \begin{document}
+\newpage
+\newpage
 \renewcommand{\arraystretch}{1.4} %% increase table rowspacing   
-%\input{referat} 
+\input{referat} 
 \newpage
                           		                         
 \tableofcontents                         
 
 \input{normLinks}
 \input{terms} 
+
 \input{1_construct}
 \input{2_techno}
 \input{3_research}
@@ -102,4 +118,12 @@
 \bibliographystyle{utf8gost705u}
 \bibliography{biblio}
 
+\newpage
+\appendix
+
+\section{Техническое задание}
+
+\newpage
+\setcounter{page}{110}
+\section{Графическая часть}
 \end{document}
