@@ -30,6 +30,8 @@
 \usepackage[usenames,dvipsnames]{color}      % названия цветов 
 \usepackage{ulem}                            % подчеркивания
 \usepackage{array}
+%для списка литературы
+\usepackage{etoolbox}
 
 % --- полуторный интервал между строками
 \usepackage{setspace}
@@ -49,6 +51,7 @@
 
 \makeatletter
 \renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 
 % делаем перенос после параграфа
 \renewcommand\paragraph{%
@@ -90,13 +93,16 @@
 %\def\thesection{\appendixname\hspace{0.2cm}\@arabic\c@section}}
 \def\thesection{\appendixname\hspace{0.2cm}\@Alph\c@section}}
 \makeatother
+
 %-----------------------------------------------------------------------------------------------------------------------
 
 
 
 \begin{document}
+\newpage 
+~
 \newpage
-\newpage
+~
 \renewcommand{\arraystretch}{1.4} %% increase table rowspacing   
 \input{referat} 
 \newpage
@@ -111,19 +117,22 @@
 \input{3_research}
 \input{4_economic}
 \input{5_ergonomic}                       
-
+\input{zakluchenie}
 
 \newpage
-\addcontentsline{toc}{section}{\bibname}
-\bibliographystyle{utf8gost705u}
+\addcontentsline{toc}{section}{Список используемых источников}
+%\bibliographystyle{utf8gost705u}
+\renewcommand\bibname{Список используемых источников}
+\section*{\bibname}
 \bibliography{biblio}
 
 \newpage
 \appendix
 
+%\addcontentsline{toc}{section}{Приложение А Техническое задание}
 \section{Техническое задание}
 
 \newpage
-\setcounter{page}{110}
+\setcounter{page}{115}
 \section{Графическая часть}
 \end{document}
